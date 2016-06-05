@@ -368,3 +368,14 @@ Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/or
 	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
 	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
 	... 35 more
+
+!ENTRY org.eclipse.ui 4 0 2016-06-04 23:33:13.650
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-06-04 23:34:02.307
+!MESSAGE Unable to remove co/nz/homing/HomingApi/1.0-SNAPSHOT/HomingApi-1.0-SNAPSHOT.pom
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-06-04 23:34:02.308
+!MESSAGE Can't save classpath container state for HomingApi
