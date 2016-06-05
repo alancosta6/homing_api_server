@@ -1,0 +1,370 @@
+!SESSION 2016-06-04 22:46:59.928 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/alancosta/git/homing/HomingApi -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-04 22:47:04.376
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:47:05.295
+!MESSAGE --- Workbench plugin started. ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:47:05.296
+!MESSAGE --- Crashlytics Updater Plugin is starting ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:47:05.300
+!MESSAGE Starting com.crashlytics.tools.eclipse.updater(2.2.1.201504170126) with location: /Applications/eclipse/configuration/
+	 Managed plugins version: 0.0.0
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:47:05.301
+!MESSAGE {internal=false, fabric=true}
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:47:05.774
+!MESSAGE  OsgiBootstrapper - Installing 5 bundles from /Users/alancosta/git/homing/HomingApi/.metadata/.plugins/com.crashlytics.tools.eclipse.workbench/.crashlytics_data/.bundles...
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:47:05.902
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.app_3.6.6.201504170126 [1805]
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:47:06.195
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.core_3.6.6.201504170126 [1806]
+
+!ENTRY com.crashlytics.tools.eclipse.core 1 0 2016-06-04 22:47:06.248
+!MESSAGE Crashlytics couldn't find file /Users/alancosta/Library/Caches/com.crashlytics/User-OAuth
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:47:06.625
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.exporter_3.6.6.201504170126 [1807]
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-04 22:47:51.629
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-04 22:47:51.631
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-04 22:47:52.799
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1805/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1805/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-04 22:47:52.800
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1805/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1805/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-04 22:47:52.802
+!MESSAGE Uncaught Swing exception
+Stack trace:
+java.lang.NoClassDefFoundError: com/crashlytics/swing/SimpleProgressBarUi
+com/crashlytics/swing/SimpleProgressBarUi
+java.lang.NoClassDefFoundError: com/crashlytics/swing/SimpleProgressBarUi
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.lang.ClassNotFoundException: com.crashlytics.swing.SimpleProgressBarUi cannot be found by com.crashlytics.tools.eclipse.app_3.6.6.201504170126
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 21 more
+
+!SESSION 2016-06-04 22:48:04.155 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-04 22:48:08.851
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:48:09.855
+!MESSAGE --- Workbench plugin started. ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:48:09.857
+!MESSAGE --- Crashlytics Updater Plugin is starting ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:48:09.860
+!MESSAGE Starting com.crashlytics.tools.eclipse.updater(2.2.1.201504170126) with location: /Applications/eclipse/configuration/
+	 Managed plugins version: 0.0.0
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-04 22:48:09.860
+!MESSAGE {internal=false, fabric=true}
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:48:10.053
+!MESSAGE  OsgiBootstrapper - Installing 5 bundles from /Users/alancosta/git/homing/HomingApi/.metadata/.plugins/com.crashlytics.tools.eclipse.workbench/.crashlytics_data/.bundles...
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:48:10.181
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.app_3.6.6.201504170126 [1810]
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:48:10.407
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.core_3.6.6.201504170126 [1811]
+
+!ENTRY com.crashlytics.tools.eclipse.core 1 0 2016-06-04 22:48:10.443
+!MESSAGE Crashlytics couldn't find file /Users/alancosta/Library/Caches/com.crashlytics/User-OAuth
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-04 22:48:10.843
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.exporter_3.6.6.201504170126 [1812]
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-04 22:48:55.828
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-04 22:48:55.830
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-04 22:49:10.826
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-04 22:51:25.977
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1810/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1810/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-04 22:51:25.978
+!MESSAGE Uncaught Swing exception
+Stack trace:
+java.lang.NoClassDefFoundError: com/crashlytics/swing/SimpleProgressBarUi
+com/crashlytics/swing/SimpleProgressBarUi
+java.lang.NoClassDefFoundError: com/crashlytics/swing/SimpleProgressBarUi
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.lang.ClassNotFoundException: com.crashlytics.swing.SimpleProgressBarUi cannot be found by com.crashlytics.tools.eclipse.app_3.6.6.201504170126
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 21 more
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-04 22:51:25.978
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1810/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1810/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
