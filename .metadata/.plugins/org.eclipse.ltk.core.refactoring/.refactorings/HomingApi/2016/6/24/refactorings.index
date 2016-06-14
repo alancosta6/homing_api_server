@@ -1,0 +1,8 @@
+1465514752096	Rename package 'Utils'
+1465659230637	Move 'hibernate' to 'java'
+1465660689331	Rename package 'hibernate'
+1465660712831	Rename package 'restful'
+1465660728345	Rename package 'utils'
+1465660843592	Move 'Honey.java' to 'HomingDTO'
+1465661188778	Rename compilation unit 'HibernateUtil.java'
+1465668275294	Move 'Honey.hbm.xml' to 'HomingDTO'
