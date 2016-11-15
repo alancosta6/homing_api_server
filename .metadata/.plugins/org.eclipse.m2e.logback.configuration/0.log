@@ -997,3 +997,136 @@ java.io.FileNotFoundException: /Users/alancosta/git/homing_api_server/.metadata/
 2016-06-14 03:32:11,603 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
 2016-06-14 03:32:11,604 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-14 03:32:11,604 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 16:48:20,513 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 16:48:20,514 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 16:48:20,516 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 16:48:20,516 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:17:21,551 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:17:21,552 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:17:21,554 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:17:21,554 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:17:37,031 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:17:37,032 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:17:37,032 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:17:37,032 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:20:59,340 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:20:59,343 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:20:59,344 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:20:59,344 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:25:22,047 [Worker-196] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.nz.homing:HomingApi:1.0-SNAPSHOT @ /Users/alancosta/git/homing_api_server/HomingApi/pom.xml.
+2016-06-18 17:25:24,437 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.2/mysql-connector-java-6.0.2.pom
+2016-06-18 17:25:24,725 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.2/mysql-connector-java-6.0.2.pom
+2016-06-18 17:25:24,889 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.2/mysql-connector-java-6.0.2.jar
+2016-06-18 17:25:27,363 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.2/mysql-connector-java-6.0.2.jar
+2016-06-18 17:25:27,586 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:25:27,586 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:25:27,587 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:25:27,587 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:25:29,046 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:25:29,049 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:25:29,051 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:25:29,051 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:45:05,468 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:45:05,469 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:45:05,470 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:45:05,471 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 17:45:28,032 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:45:28,033 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 17:45:28,033 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 17:45:28,034 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:17:25,840 [Worker-201] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.nz.homing:HomingApi:1.0-SNAPSHOT @ /Users/alancosta/git/homing_api_server/HomingApi/pom.xml.
+2016-06-18 18:17:29,431 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/opengis/geoapi/3.0.0/geoapi-3.0.0.pom
+2016-06-18 18:17:29,784 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/opengis/geoapi/3.0.0/geoapi-3.0.0.pom
+2016-06-18 18:17:29,923 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/opengis/geoapi-parent/3.0.0/geoapi-parent-3.0.0.pom
+2016-06-18 18:17:30,353 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/opengis/geoapi-parent/3.0.0/geoapi-parent-3.0.0.pom
+2016-06-18 18:17:30,495 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/measure/jsr-275/0.9.3/jsr-275-0.9.3.pom
+2016-06-18 18:17:30,793 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/measure/jsr-275/0.9.3/jsr-275-0.9.3.pom
+2016-06-18 18:17:30,950 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/opengis/geoapi/3.0.0/geoapi-3.0.0.jar
+2016-06-18 18:17:31,852 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/opengis/geoapi/3.0.0/geoapi-3.0.0.jar
+2016-06-18 18:17:31,983 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/measure/jsr-275/0.9.3/jsr-275-0.9.3.jar
+2016-06-18 18:17:32,866 [Worker-201] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/measure/jsr-275/0.9.3/jsr-275-0.9.3.jar
+2016-06-18 18:17:33,011 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:17:33,011 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:17:33,012 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:17:33,012 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:17:34,357 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:17:34,357 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:17:34,360 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:17:34,360 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:19:26,087 [Worker-197] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/opengis/geoapi/3.0.0/geoapi-3.0.0-sources.jar
+2016-06-18 18:19:27,096 [Worker-197] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/opengis/geoapi/3.0.0/geoapi-3.0.0-sources.jar
+2016-06-18 18:19:27,125 [Worker-197] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opengis:geoapi:3.0.0
+2016-06-18 18:19:27,297 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:19:27,297 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:19:27,298 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:19:27,298 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:19:53,340 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:19:53,340 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:19:53,340 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:19:53,340 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:23:00,232 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:23:00,235 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:23:00,236 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:23:00,236 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:25:08,373 [Worker-200] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.nz.homing:HomingApi:1.0-SNAPSHOT @ /Users/alancosta/git/homing_api_server/HomingApi/pom.xml.
+2016-06-18 18:25:08,891 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:25:08,891 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:25:08,892 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:25:08,892 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:25:10,230 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:25:10,230 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:25:10,231 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:25:10,231 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:28:44,000 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:28:44,000 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:28:44,001 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:28:44,001 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:28:47,474 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:28:47,474 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:28:47,475 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:28:47,475 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:29:20,634 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:29:20,634 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:29:20,635 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:29:20,635 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:29:52,128 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:29:52,135 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:29:52,136 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:29:52,136 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:30:04,415 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:30:04,415 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:30:04,416 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:30:04,416 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-18 18:30:29,380 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:30:29,381 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-18 18:30:29,381 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 18:30:29,381 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:00:55,310 [Worker-250] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.nz.homing:HomingApi:1.0-SNAPSHOT @ /Users/alancosta/git/homing_api_server/HomingApi/pom.xml.
+2016-06-19 18:00:55,686 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:00:55,687 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:00:55,688 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:00:55,688 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:00:57,121 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:00:57,122 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:00:57,122 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:00:57,123 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:01:25,279 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:25,281 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:01:25,286 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:25,286 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:01:38,769 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:38,769 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:01:38,771 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:38,771 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:01:46,337 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:46,338 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:01:46,339 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:46,339 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:01:57,742 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:57,743 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:01:57,745 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:01:57,745 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources
+2016-06-19 18:02:03,524 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:02:03,524 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/main/resources
+2016-06-19 18:02:03,525 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-19 18:02:03,525 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alancosta/git/homing_api_server/HomingApi/src/test/resources

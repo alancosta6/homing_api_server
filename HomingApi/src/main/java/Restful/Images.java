@@ -1,12 +1,12 @@
 package Restful;
 
+import java.awt.Point;
+
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import Hibernate.TestExample;
-import HomingDTO.Honey;
 
 @Path("images")
 public class Images {
@@ -25,24 +25,6 @@ public class Images {
     	try {
     		
     		
-            Honey forestHoney = new Honey();
-            forestHoney.setName("forest honey");
-            forestHoney.setTaste("very sweet");
-            
-        
-            Honey countryHoney = new Honey();
-            countryHoney.setName("country honey");
-            countryHoney.setTaste("tasty");
-            
-            
-            TestExample.createHoney(forestHoney);
-//            TestExample.createHoney(countryHoney);
-//        
-//            TestExample.listHoney();
-//            TestExample.deleteHoney(countryHoney);
-//            TestExample.listHoney();
-//            forestHoney.setName("Norther Forest Honey");
-//            TestExample.updateHoney(forestHoney);
 			
 		} catch (Exception e) {
 			e.printStackTrace();

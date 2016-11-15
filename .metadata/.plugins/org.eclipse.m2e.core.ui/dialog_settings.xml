@@ -20,6 +20,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/alancosta/git/homing_spider"/>
 			<item value="/Users/alancosta/git/homing_api_server"/>
 			<item value="/Users/alancosta/git/homing_api_server/HomingApi"/>
 			<item value="/Users/alancosta/git/tests/simple-service"/>

@@ -2965,3 +2965,1968 @@ com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate 
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-14 20:19:21.461
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-14 20:19:21.471
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-14 20:19:36.449
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-15 21:15:11.018
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-15 21:15:11.028
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-15 21:15:26.010
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-16 19:34:57.503
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-16 19:34:57.509
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-16 19:35:12.496
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 19:08:10.697
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 19:08:10.709
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-17 19:08:25.693
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 20:08:10.686
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 20:08:10.687
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-17 20:08:25.689
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 21:08:10.687
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 21:08:10.689
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-17 21:08:25.688
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 22:08:10.689
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 22:08:10.692
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-17 22:08:25.686
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 23:08:10.686
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-17 23:08:10.688
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-17 23:08:25.687
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 00:08:10.694
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 00:08:10.695
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 00:08:25.692
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 01:08:10.689
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 01:08:10.691
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 01:08:25.692
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 02:08:10.694
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 02:08:10.696
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 02:08:25.692
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 03:08:10.694
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 03:08:10.695
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 03:08:25.692
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 04:08:10.695
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 04:08:10.696
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 04:08:25.692
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 05:08:10.694
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 05:08:10.695
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 05:08:25.692
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 06:08:10.692
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 06:08:10.694
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 06:08:25.683
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 07:08:10.695
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 07:08:10.696
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 07:08:25.690
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 08:08:10.698
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 08:08:10.700
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 08:08:25.689
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 09:08:10.689
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 09:08:10.691
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 09:08:25.684
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 11:00:25.533
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 11:00:25.537
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 11:00:40.527
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 12:00:25.535
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 12:00:25.538
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 12:00:40.532
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 15:00:22.308
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 15:00:22.310
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 15:00:37.299
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 16:00:22.303
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 16:00:22.305
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 16:00:37.306
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-06-18 16:48:11.531
+!MESSAGE No valid Android XML Editor Delegate found for file /HomingApi/src/main/java/hibernate.cfg.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-06-18 16:48:20.260
+!MESSAGE No projects found for [/Users/alancosta/git/homing_api_server/HomingApi/src/main/java/hibernate.cfg.xml]
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 17:00:22.309
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 17:00:22.316
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 17:00:37.305
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 18:00:22.310
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 18:00:22.321
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 18:00:37.303
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 19:00:22.312
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 19:00:22.323
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 19:00:37.305
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 20:00:22.315
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-18 20:00:22.325
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-18 20:00:37.306
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 09:30:03.987
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 09:30:04.001
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 09:30:18.982
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 10:30:03.983
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 10:30:03.985
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 10:30:18.980
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 11:30:03.994
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 11:30:04.004
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 11:30:18.982
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 12:57:15.609
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 12:57:15.647
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 12:57:30.607
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 13:57:15.615
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 13:57:15.625
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 13:57:30.604
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 14:57:15.604
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 14:57:15.605
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 14:57:30.602
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 15:57:15.613
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 15:57:15.625
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 15:57:30.605
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 16:57:15.620
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 16:57:15.638
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 16:57:30.605
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 17:57:15.623
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 17:57:15.650
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 17:57:30.607
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 18:57:15.714
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 18:57:15.778
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 18:57:30.640
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 19:57:15.750
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 19:57:15.804
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 19:57:30.647
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 20:57:15.770
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 20:57:15.807
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 20:57:30.642
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-19 21:08:36.301
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1865/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1865/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 33 more
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 21:08:36.306
+!MESSAGE Uncaught Swing exception
+Stack trace:
+java.lang.NoClassDefFoundError: com/crashlytics/swing/ProgressUpdater$1
+com/crashlytics/swing/ProgressUpdater$1
+java.lang.NoClassDefFoundError: com/crashlytics/swing/ProgressUpdater$1
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.lang.ClassNotFoundException: com.crashlytics.swing.ProgressUpdater$1 cannot be found by com.crashlytics.tools.eclipse.app_3.6.6.201504170126
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 19 more
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-19 21:08:36.306
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1865/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1865/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 33 more
+!SESSION 2016-06-19 21:10:14.512 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-19 21:10:20.775
+!MESSAGE --- Workbench plugin started. ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-19 21:10:20.781
+!MESSAGE --- Crashlytics Updater Plugin is starting ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-19 21:10:20.785
+!MESSAGE Starting com.crashlytics.tools.eclipse.updater(2.2.1.201504170126) with location: /Applications/eclipse/configuration/
+	 Managed plugins version: 0.0.0
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-19 21:10:20.785
+!MESSAGE {internal=false, fabric=true}
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-19 21:10:20.993
+!MESSAGE  OsgiBootstrapper - Installing 5 bundles from /Users/alancosta/git/homing_api_server/.metadata/.plugins/com.crashlytics.tools.eclipse.workbench/.crashlytics_data/.bundles...
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-19 21:10:21.135
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.app_3.6.6.201504170126 [1870]
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-19 21:10:21.419
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.core_3.6.6.201504170126 [1871]
+
+!ENTRY com.crashlytics.tools.eclipse.core 1 0 2016-06-19 21:10:21.454
+!MESSAGE Crashlytics couldn't find file /Users/alancosta/Library/Caches/com.crashlytics/User-OAuth
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-19 21:10:21.781
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.exporter_3.6.6.201504170126 [1872]
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 21:11:06.786
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 21:11:06.788
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 21:11:21.785
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 22:11:06.787
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 22:11:06.789
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 22:11:21.783
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 23:11:06.787
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-19 23:11:06.788
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-19 23:11:21.782
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-20 00:11:06.792
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-20 00:11:06.794
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-20 00:11:21.787
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-20 08:34:27.685
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1870/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:39)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1870/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-20 08:34:27.687
+!MESSAGE Uncaught Swing exception
+Stack trace:
+java.lang.NoClassDefFoundError: com/crashlytics/swing/StatusPanel
+com/crashlytics/swing/StatusPanel
+java.lang.NoClassDefFoundError: com/crashlytics/swing/StatusPanel
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:39)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.lang.ClassNotFoundException: com.crashlytics.swing.StatusPanel cannot be found by com.crashlytics.tools.eclipse.app_3.6.6.201504170126
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 21 more
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-20 08:34:27.688
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1870/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:39)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1870/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+!SESSION 2016-06-20 19:33:37.353 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-06-20 19:33:50.954
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-20 19:33:54.144
+!MESSAGE --- Workbench plugin started. ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-20 19:33:54.147
+!MESSAGE --- Crashlytics Updater Plugin is starting ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-20 19:33:54.152
+!MESSAGE Starting com.crashlytics.tools.eclipse.updater(2.2.1.201504170126) with location: /Applications/eclipse/configuration/
+	 Managed plugins version: 0.0.0
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-06-20 19:33:54.158
+!MESSAGE {internal=false, fabric=true}
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-20 19:33:58.142
+!MESSAGE  OsgiBootstrapper - Installing 5 bundles from /Users/alancosta/git/homing_api_server/.metadata/.plugins/com.crashlytics.tools.eclipse.workbench/.crashlytics_data/.bundles...
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-20 19:34:00.312
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.app_3.6.6.201504170126 [1875]
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-20 19:34:03.778
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.core_3.6.6.201504170126 [1876]
+
+!ENTRY com.crashlytics.tools.eclipse.core 1 0 2016-06-20 19:34:04.196
+!MESSAGE Crashlytics couldn't find file /Users/alancosta/Library/Caches/com.crashlytics/User-OAuth
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-06-20 19:34:08.625
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.exporter_3.6.6.201504170126 [1877]
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-20 19:34:53.630
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-20 19:34:53.632
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-20 19:35:08.610
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-21 07:39:43.413
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-06-21 07:39:43.424
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-21 07:39:58.390
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-21 07:56:39.081
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at javax.swing.UIDefaults.getUIClass(UIDefaults.java:689)
+	at javax.swing.UIDefaults.getUI(UIDefaults.java:758)
+	at javax.swing.UIManager.getUI(UIManager.java:1016)
+	at javax.swing.JProgressBar.updateUI(JProgressBar.java:619)
+	at javax.swing.JProgressBar.<init>(JProgressBar.java:334)
+	at javax.swing.JProgressBar.<init>(JProgressBar.java:274)
+	at javax.swing.JProgressBar.<init>(JProgressBar.java:251)
+	at com.crashlytics.swing.ProgressUpdater$1.<init>(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 43 more
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-21 07:56:39.083
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at javax.swing.UIDefaults.getUIClass(UIDefaults.java:689)
+	at javax.swing.UIDefaults.getUI(UIDefaults.java:758)
+	at javax.swing.UIManager.getUI(UIManager.java:1016)
+	at javax.swing.JProgressBar.updateUI(JProgressBar.java:619)
+	at javax.swing.JProgressBar.<init>(JProgressBar.java:334)
+	at javax.swing.JProgressBar.<init>(JProgressBar.java:274)
+	at javax.swing.JProgressBar.<init>(JProgressBar.java:251)
+	at com.crashlytics.swing.ProgressUpdater$1.<init>(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 43 more
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-21 07:56:39.086
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.StatusPanel.dispose(StatusPanel.java:85)
+	at com.crashlytics.swing.ProgressUpdater.dispose(ProgressUpdater.java:99)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 34 more
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-06-21 07:56:39.087
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.StatusPanel.dispose(StatusPanel.java:85)
+	at com.crashlytics.swing.ProgressUpdater.dispose(ProgressUpdater.java:99)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1875/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 34 more
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-06-21 07:56:39.088
+!MESSAGE Uncaught Swing exception
+Stack trace:
+java.lang.NoClassDefFoundError: com/crashlytics/swing/StatusPanel$2
+com/crashlytics/swing/StatusPanel$2
+java.lang.NoClassDefFoundError: com/crashlytics/swing/StatusPanel$2
+	at com.crashlytics.swing.StatusPanel.dispose(StatusPanel.java:85)
+	at com.crashlytics.swing.ProgressUpdater.dispose(ProgressUpdater.java:99)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.lang.ClassNotFoundException: com.crashlytics.swing.StatusPanel$2 cannot be found by com.crashlytics.tools.eclipse.app_3.6.6.201504170126
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 20 more
+
+!SESSION 2016-07-07 21:16:18.207 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-07 21:16:23.900
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-07 21:16:25.331
+!MESSAGE --- Workbench plugin started. ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-07 21:16:25.333
+!MESSAGE --- Crashlytics Updater Plugin is starting ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-07 21:16:25.337
+!MESSAGE Starting com.crashlytics.tools.eclipse.updater(2.2.1.201504170126) with location: /Applications/eclipse/configuration/
+	 Managed plugins version: 0.0.0
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-07 21:16:25.338
+!MESSAGE {internal=false, fabric=true}
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-07 21:16:25.501
+!MESSAGE  OsgiBootstrapper - Installing 5 bundles from /Users/alancosta/git/homing_api_server/.metadata/.plugins/com.crashlytics.tools.eclipse.workbench/.crashlytics_data/.bundles...
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-07 21:16:25.681
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.app_3.6.6.201504170126 [1880]
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-07 21:16:25.909
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.core_3.6.6.201504170126 [1881]
+
+!ENTRY com.crashlytics.tools.eclipse.core 1 0 2016-07-07 21:16:25.942
+!MESSAGE Crashlytics couldn't find file /Users/alancosta/Library/Caches/com.crashlytics/User-OAuth
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-07 21:16:26.381
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.exporter_3.6.6.201504170126 [1882]
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-07-07 21:16:44.011
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1880/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1880/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-07-07 21:16:44.013
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1880/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:40)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1880/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 35 more
+!SESSION 2016-07-09 22:05:19.960 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/alancosta/git/homing_api_server -product org.eclipse.epp.package.jee.product -keyring /Users/alancosta/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-09 22:05:24.678
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-09 22:05:25.906
+!MESSAGE --- Workbench plugin started. ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-09 22:05:25.907
+!MESSAGE --- Crashlytics Updater Plugin is starting ---
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-09 22:05:25.911
+!MESSAGE Starting com.crashlytics.tools.eclipse.updater(2.2.1.201504170126) with location: /Applications/eclipse/configuration/
+	 Managed plugins version: 0.0.0
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 1 0 2016-07-09 22:05:25.911
+!MESSAGE {internal=false, fabric=true}
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-09 22:05:26.107
+!MESSAGE  OsgiBootstrapper - Installing 5 bundles from /Users/alancosta/git/homing_api_server/.metadata/.plugins/com.crashlytics.tools.eclipse.workbench/.crashlytics_data/.bundles...
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-09 22:05:26.301
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.app_3.6.6.201504170126 [1910]
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-09 22:05:26.598
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.core_3.6.6.201504170126 [1911]
+
+!ENTRY com.crashlytics.tools.eclipse.core 1 0 2016-07-09 22:05:26.667
+!MESSAGE Crashlytics couldn't find file /Users/alancosta/Library/Caches/com.crashlytics/User-OAuth
+
+!ENTRY com.crashlytics.tools.eclipse.workbench 0 0 2016-07-09 22:05:27.060
+!MESSAGE  OsgiBootstrapper - Starting OSGi bundle com.crashlytics.tools.eclipse.exporter_3.6.6.201504170126 [1912]
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-07-09 22:06:12.062
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 2 0 2016-07-09 22:06:12.064
+!MESSAGE Crashlytics could not determine ab API Key for this user; could not check for plugin updates.
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-07-09 22:06:27.062
+!MESSAGE Crashlytics had a problem getting the list of organizations.
+Stack trace:
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+Crashlytics could not authenticate user while retrieving organizations.
+com.crashlytics.api.AuthenticationException: Crashlytics could not authenticate user while retrieving organizations.
+	at com.crashlytics.api.RestfulWebApi.getOrgs(RestfulWebApi.java:487)
+	at com.crashlytics.tools.ide.android.AbstractAndroidIde.updateThenRefreshSDKs(AbstractAndroidIde.java:178)
+	at com.crashlytics.tools.ide.android.AndroidPluginSupport$SDKUpdateBehavior.run(AndroidPluginSupport.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-07-09 22:11:09.480
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1910/0/bundleFile
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.StatusPanel.<init>(StatusPanel.java:37)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:39)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1910/0/bundleFile (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 36 more
+
+!ENTRY com.crashlytics.tools.eclipse.core 4 0 2016-07-09 22:11:09.482
+!MESSAGE Uncaught Swing exception
+Stack trace:
+java.lang.NoClassDefFoundError: com/crashlytics/swing/StatusPanel$Visibility
+com/crashlytics/swing/StatusPanel$Visibility
+java.lang.NoClassDefFoundError: com/crashlytics/swing/StatusPanel$Visibility
+	at com.crashlytics.swing.StatusPanel.<init>(StatusPanel.java:37)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:39)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.lang.ClassNotFoundException: com.crashlytics.swing.StatusPanel$Visibility cannot be found by com.crashlytics.tools.eclipse.app_3.6.6.201504170126
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:432)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 22 more
+
+
+!ENTRY com.crashlytics.tools.eclipse.app 4 0 2016-07-09 22:11:09.482
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.io.IOException: Exception in opening zip file: /Applications/eclipse/configuration/org.eclipse.osgi/1910/0/.cp/lib/timingframework-swing-7.2.jar
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:305)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.basicOpen(ZipBundleFile.java:85)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getZipFile(ZipBundleFile.java:98)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.checkedOpen(ZipBundleFile.java:65)
+	at org.eclipse.osgi.storage.bundlefile.ZipBundleFile.getEntry(ZipBundleFile.java:232)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:562)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.crashlytics.swing.StatusPanel.<init>(StatusPanel.java:37)
+	at com.crashlytics.swing.ProgressUpdater.createProgressUpdater(ProgressUpdater.java:39)
+	at com.crashlytics.swing.ProgressUpdater.createAppFooterProgressUpdater(ProgressUpdater.java:32)
+	at com.crashlytics.tools.ide.app.AppPage.getProgressBar(AppPage.java:617)
+	at com.crashlytics.tools.ide.app.AppPage.dispose(AppPage.java:395)
+	at com.crashlytics.tools.ide.app.AppWindow.dispose(AppWindow.java:243)
+	at com.crashlytics.tools.ide.app.Launcher.killShell(Launcher.java:177)
+	at com.crashlytics.tools.ide.app.Launcher$2.run(Launcher.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: /Applications/eclipse/configuration/org.eclipse.osgi/1910/0/.cp/lib/timingframework-swing-7.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at org.eclipse.osgi.framework.util.SecureAction.getZipFile(SecureAction.java:288)
+	... 36 more

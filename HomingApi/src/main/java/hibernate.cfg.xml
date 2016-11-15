@@ -14,8 +14,8 @@
 			<property name="dialect">org.hibernate.dialect.PostgreSQLDialect</property> -->
 
 		<!-- MySQL connection -->
-		<property name="connection.url">jdbc:mysql://shared.cb4ibu5g8ewo.us-west-2.rds.amazonaws.com:3306/leick</property>
-		<property name="connection.username">acosta</property>
+		<property name="connection.url"></property>
+		<property name="connection.username"></property>
 		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
 		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
 		<property name="connection.password">EvkYYAz9rQd7LcPq</property>

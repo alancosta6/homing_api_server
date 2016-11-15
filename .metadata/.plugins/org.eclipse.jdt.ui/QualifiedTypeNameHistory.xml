@@ -5,9 +5,16 @@
 <fullyQualifiedTypeName name="org.glassfish.grizzly.http.server.Session"/>
 <fullyQualifiedTypeName name="Utils.HibernateUtil"/>
 <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
-<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
-<fullyQualifiedTypeName name="Utils.SessionFactoryUtil"/>
 <fullyQualifiedTypeName name="Hibernate.TestExample"/>
 <fullyQualifiedTypeName name="org.hibernate.cfg.AnnotationConfiguration"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="Utils.SessionFactoryUtil"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.Level"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Type"/>
+<fullyQualifiedTypeName name="java.awt.geom.Point2D"/>
+<fullyQualifiedTypeName name="org.opengis.referencing.crs.GeocentricCRS"/>
+<fullyQualifiedTypeName name="org.opengis.metadata.acquisition.GeometryType"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
 </qualifiedTypeNameHistroy>
